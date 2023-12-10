@@ -1,5 +1,5 @@
 
-from pycounts_khalil import count_words
+from pycounts_khalil.pycounts_khalil import count_words
 
 from collections import Counter
 
